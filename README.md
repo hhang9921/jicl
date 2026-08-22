@@ -84,8 +84,6 @@ JLCH 是面向营销团队、客户服务团队与数字化运营团队的一站
 如需产品演示、试用、部署方案或商务合作，请通过以下方式联系我们：
 
 - 官方网站：[https://fenliu100.com/](https://fenliu100.com/)
-- 演示地址：`待补充`
-- 联系邮箱：`待补充`
 - Telegram：[村长叔叔 @antong001](https://t.me/antong001)
 - Telegram：[JLCH 官方 @jlchcc](https://t.me/jlchcc)
 

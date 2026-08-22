@@ -101,11 +101,3 @@ JLCH 帮助团队集中管理这些日常工作，让每个入口更清楚、每
 
 - Telegram：[村长叔叔 @antong001](https://t.me/antong001)
 - Telegram：[JLCH 官方 @jlchcc](https://t.me/jlchcc)
-
-## 发布前替换清单
-
-- `[产品网址]`
-- `[演示地址]`
-- `[联系邮箱]`
-- `[二维码图片]`
-- `[服务地区与响应时间]`
